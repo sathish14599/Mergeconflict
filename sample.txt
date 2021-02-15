@@ -1,3 +1,7 @@
 first line
 second line
+<<<<<<< HEAD
 modified line
+=======
+third line
+>>>>>>> 77d989ce5a8b0c066c3f7e9759feaf3e86fe6f45
